@@ -1,0 +1,531 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #181C14;
+    font-family: "Poppins", sans-serif;
+
+}
+body{
+    overflow-x: hidden;
+}
+.h2{
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    
+}
+.text{
+    color: white;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.sem3{
+    padding-bottom: 20px;
+}
+.sem-3{
+    display: block;
+    position: relative;
+    left: 30px;
+    margin-top: 30px;
+    color: black;
+    background-color: white;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px 10px 10px 0;
+}
+.sem-3:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.rectangle{
+    position: relative;
+    height: 60px;
+    top: 20px;
+    left: 30px;
+    background-color: white;
+    display: flex;
+    display: inline-block;
+    border-radius: 20px;
+}
+.Syllabus{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Syllabus:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Books{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Books:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Papers{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Papers:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Imp{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.Imp:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.sem4{
+    padding-bottom: 20px;
+}
+
+.sem-4{
+    display: block;
+    position: relative;
+    left: 30px;
+    margin-top: 50px;
+    color: black;
+    background-color: white;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px 10px 10px 0;
+}
+
+.sem-4:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.rectangle-1{
+    position: relative;
+    height: 60px;
+    top: 20px;
+    left: 30px;
+    background-color: white;
+    display: flex;
+    display: inline-block;
+    border-radius: 20px;
+}
+.Syllabus-4{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Syllabus-4:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Books-4{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Books-4:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Papers-4{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Papers-4:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Imp-4{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.Imp-4:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.sem5{
+    padding-bottom: 10px;
+}
+
+
+.sem-5{
+    display: block;
+    position: relative;
+    left: 30px;
+    margin-top: 50px;
+    color: black;
+    background-color: white;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px 10px 10px 0;
+}
+.sem-5:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.rectangle-2{
+    position: relative;
+    height: 60px;
+    top: 10px;
+    left: 30px;
+    background-color: white;
+    display: flex;
+    display: inline-block;
+    border-radius: 20px;
+}
+.Syllabus-5{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Syllabus-5:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Books-5{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Books-5:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Papers-5{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Papers-5:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Imp-5{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.Imp-5:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.sem-6{
+    display: block;
+    position: relative;
+    margin-top: 50px;
+    color: black;
+    background-color: white;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px 10px 10px 0;
+}
+.sem-6:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.rectangle-3{
+    position: relative;
+    height: 60px;
+    top: 20px;
+    background-color: white;
+    display: flex;
+    display: inline-block;
+    border-radius: 20px;
+}
+.Syllabus-6{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Syllabus-6:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Books-6{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Books-6:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Papers-6{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Papers-6:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Imp-6{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.Imp-6:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.sem-7{
+    display: block;
+    position: relative;
+    margin-top: 50px;
+    color: black;
+    background-color: white;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px 10px 10px 0;
+}
+.sem-7:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.rectangle-4{
+    position: relative;
+    height: 60px;
+    top: 20px;
+    background-color: white;
+    display: flex;
+    display: inline-block;
+    border-radius: 20px;
+}
+.Syllabus-7{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Syllabus-7:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Books-7{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Books-7:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Papers-7{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Papers-7:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Imp-7{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.Imp-7:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.sem-8{
+    display: block;
+    position: relative;
+    margin-top: 50px;
+    color: black;
+    background-color: white;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px 10px 10px 0;
+}
+.sem-8:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.rectangle-5{
+    position: relative;
+    height: 60px;
+    top: 20px;
+    left: 30px;
+    background-color: white;
+    display: flex;
+    display: inline-block;
+    border-radius: 20px;
+}
+.Syllabus-8{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Syllabus-8:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Books-8{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Books-8:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Papers-8{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    border-radius: 10px;
+}
+.Papers-8:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
+.Imp-8{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 40px;
+    background-color: white;
+    padding: 10px 50px 20px 50px;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.s-678{
+    margin-left: 30px;
+}
+.Imp-8:hover{
+    background-color: black;
+    box-shadow: 0 0 6px rgb(255, 255, 255,0.5);
+    color: white;
+}
